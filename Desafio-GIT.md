@@ -8,7 +8,7 @@ Este desafio tem como objetivo colocar em prática o uso de Git em um cenário c
 
 📖 Como visto na Trilha de GIT Básico, crie a documentação deste projeto, em um arquivo `README.md`
 
-💻 Deve ser realizado via terminal de comandos, e deve ser registrado, em dois terminais no minímo. Terminal Bash e PowerShell. Para isso, use a pasta assets.
+💻 Deve ser realizado via terminal de comandos, e deve ser registrado, em dois terminais no minímo. Terminal Bash e PowerShell. Para isso, use a pasta assets, e adicione as imagens dentro com o report.
 
 🔍 Faça comentários das tarefas para cada arquivo. Use as referencias da Trilha de GIT como pesquisa.
 
@@ -16,11 +16,13 @@ Este desafio tem como objetivo colocar em prática o uso de Git em um cenário c
 
 📝 Copie o arquivo `comandos-consulta.md` do repositório da Atividade Prática sobre terminal anterior. Altere o nome para `comandos_consulta_cli.md`.
 
+Atenção: Neste repositório temos duas branchs, develop e main
+
 ## Etapas do Desafio
 
-1. Faça um **Fork** deste repositório para o seu GitHub pessoal
+1. Faça um **Fork** deste repositório para o seu GitHub pessoal.
 2. Clone o repositório forkado para a sua máquina.
-3. Crie branches para implementar as novas funcionalidades.
+3. Baixe todas as branchs que contém no projeto com o `git pull` para correção de conflitos e adicionar novas features.
 4. Realize commits usando o padrão **Conventional Commits**.
 5. Resolva o conflito de merge no arquivo `conflito.md`
 6. Envie suas mudanças via **Pull Request** para o seu repositório.
@@ -34,8 +36,7 @@ Ex: `feature/nova-funcionalidade`
 - **Commits**: Siga o padrão de commits semânticos.
 - **Pull Request**: Descreva claramente as mudanças no PR.
 - **Versionamento**: é importante se atentar a versionar o código. Nada de um commit.
-
-- **User o terminal.**
+- **Usar o terminal.**: Adicione no assets a pasta images com as capturas de tela de cada terminal.
 
 ## Dicas
 
@@ -43,9 +44,8 @@ Ex: `feature/nova-funcionalidade`
 - Resolva conflitos no terminal, certificando-se de que os arquivos estão corretos antes de concluir o merge.
 - Documente bem suas mudanças no PR.
 - Se atente ao criar nomes de branch e commits para a alteração que de fato esta sendo realizada.
-
 - Se atente a usar o que aprendeu, em cada módulo da Trilha de GIT, o que deve ser versionado e o que não deve ser.
 
-- Lembre-se: deve ser corrigido o conflito em uma branch de correção. Após a correção, deve ser feito o PR para a branch de desenvolvimento e não deve ser diretamente na main.
+- Lembre-se: deve ser corrigido os conflito em uma branch de correção. Após as correções, deve ser feito o PRs para a branch de desenvolvimento e não deve ser diretamente na main.
 
 Boa sorte com o desafio! 👋
