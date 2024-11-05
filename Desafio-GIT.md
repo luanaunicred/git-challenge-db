@@ -3,6 +3,8 @@
 ## Objetivo
 
 Este desafio tem como objetivo colocar em prática o uso de Git em um cenário colaborativo. Você aprenderá a criar branches, realizar commits seguindo boas práticas, resolver conflitos e integrar suas mudanças via Pull Request.
+Com a prática sendo aplicada, entender o funcionamento da branch develop (desenvolvimento).
+E a importância
 
 `comandos-git.md`: dentro deste arquivo adicione comandos GIT
 
@@ -20,11 +22,12 @@ Este desafio tem como objetivo colocar em prática o uso de Git em um cenário c
 
 1. Faça um **Fork** deste repositório para o seu GitHub pessoal
 2. Clone o repositório forkado para a sua máquina.
-3. Crie branches para implementar as novas funcionalidades.
-4. Realize commits usando o padrão **Conventional Commits**.
-5. Resolva o conflito de merge no arquivo `conflito.md`
-6. Envie suas mudanças via **Pull Request** para o seu repositório.
-7. Merge Final: Se tudo estiver correto, o Pull Request será revisado e aprovado, e suas alterações serão integradas ao projeto.
+3. Atualize as branches do seu repositório, e corrija os conflitos de merge que tem entre elas (develop e main)
+4. Crie branches para implementar as novas funcionalidades.
+5. Realize commits usando o padrão **Conventional Commits**.
+6. Ajuste o arquivo `comandos-git.md` completo usando como base a descrição na branch estável (main)
+7. Envie suas mudanças via **Pull Request** (PRs) para o seu repositório.
+8. Merge Final: Se tudo estiver correto, o Pull Request será revisado e aprovado, e suas alterações serão integradas ao projeto.
 
 ## Regras
 
