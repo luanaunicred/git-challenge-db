@@ -4,7 +4,7 @@
 
 Este desafio tem como objetivo colocar em prática o uso de Git em um cenário colaborativo. Você aprenderá a criar branches, realizar commits seguindo boas práticas, resolver conflitos e integrar suas mudanças via Pull Request.
 Com a prática sendo aplicada, entender o funcionamento da branch develop (desenvolvimento).
-E a importância
+E a importância de manter o cuidado da branch main. Como trabalhar com essas branch principais do projeto.
 
 `comandos-git.md`: dentro deste arquivo adicione comandos GIT
 
